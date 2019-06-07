@@ -7,10 +7,10 @@ const lines = [
   bold("Tom Greuter"),
   "Freelance Web Developer",
   "",
-  bold("       Web: ") + cyan("https://tomgreuter.nl"),
-  bold("      Blog: ") + cyan("https://tomgreuter.nl/tech"),
-  bold("    GitHub: ") + cyan("https://github.com/ludder"),
-  bold("  LinkedIn: ") + cyan("https://linkedin.com/in/tomgreuter")
+  bold("     Web: ") + cyan("https://tomgreuter.nl"),
+  bold("    Blog: ") + cyan("https://tomgreuter.nl/tech"),
+  bold("  GitHub: ") + cyan("https://github.com/ludder"),
+  bold("LinkedIn: ") + cyan("https://linkedin.com/in/tomgreuter")
 ];
 
 const message = lines.join("\n");
