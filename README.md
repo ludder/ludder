@@ -1,9 +1,23 @@
-# marius
+# ludder
 
 Code for my personal npm card:
 
 ```bash
-npx marius
+npx ludder
 ```
 
-[![Output of running "npx marius" on the command line](https://pbs.twimg.com/media/Duz135nWsAAyV2d.jpg:large)](https://twitter.com/mariusschulz/status/1075504901998944256)
+## Test and deploy
+
+Test locally:
+
+```
+node ./src/index.js
+```
+
+Publish to NPM:
+
+```
+npm publish
+```
+
+Based upon: https://github.com/mariusschulz/marius
